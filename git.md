@@ -29,7 +29,7 @@ viên có thể làm việc độc lập với nhau sau đó hợp nhánh khi ho
 * `.ignore`: Các file mà chúng ta không muốn để git quản lý nói cách khác các file này sẽ không được upload lên remote repo trên Github
 
 ## *Hình ảnh thể hiện cách hoạt động của git*
-<img src="./basic-remote-workflow.webp"> <hr>
+<img src="./basic-remote-workflow.webp" width="100%"> <hr>
 
 ## *Một số lệnh Git cơ bản*
 * `git config`: Lệnh này được dùng để set tên author name và email tương ứng sẽ được sử dụng trong commit
