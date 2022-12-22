@@ -47,7 +47,7 @@ viên có thể làm việc độc lập với nhau sau đó hợp nhánh khi ho
 * `git branch "[name branch]"`: Lệnh tạo nhánh 
 * `git checkout "[name branch]"`: Lệnh di chuyển qua lại giữa các nhánh
 * `git merge "[name branch]"`: Lệnh hợp nhất các sự thay đôi của nhánh để đưa vào nhánh chính
-* `git pull`: Cập nhật sự thay đổi từ remote repo về local repo
+* `git pull origin master`: Cập nhật sự thay đổi từ remote repo về local repo
 
 <hr>
 
